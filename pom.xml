@@ -5,7 +5,7 @@
   <artifactId>phantom-exportword</artifactId>
   <packaging>war</packaging>
   <version>1.0.0-SNAPSHOT</version>
-  <name>exportword Maven Webapp</name>
+  <name>phantom-exportword Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
   <parent>
